@@ -5,9 +5,9 @@ If you want to contact me, please leave me a message!
 
 
 🏫 Education
-- Seokyeong University , Computer Engineering  ``2017-03~``
-- Physical Lab(Startup company) , Software Development Team Intern  ``2021-07~2021-08``
-- Spartan Coding Club , Supporters ``2021-11~2021-12``
+- Seokyeong University , computer engineering  ``2017-03~``
+- Physical Lab(Startup company) , software development team, intern  ``2021-07~2021-08``
+- Spartan Coding Club , supporters ``2021-11~2021-12``
 
 
 ⚡ Interest
