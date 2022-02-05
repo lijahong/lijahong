@@ -5,7 +5,7 @@ If you want to contact me, please leave me a message.
 
 
 🏫 Education
-- sku Unversity, computer engineering  ``2017-03~``
+- Seokyeong University, computer engineering  ``2017-03~``
 
 
 ⚡ Interest
