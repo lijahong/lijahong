@@ -5,7 +5,8 @@ If you want to contact me, please leave me a message!
 
 
 🏫 Education
-- Seokyeong University, computer engineering  ``2017-03~``
+- Seokyeong University , computer engineering  ``2017-03~``
+- Physical Lab(Startup company) , S/W Development Team Intern  ``2021-07~2021-08``
 
 
 ⚡ Interest
