@@ -4,7 +4,7 @@ Good Day! I'm Jaehong
 If you want to contact me, please leave me a message!
 
 
-🏫 Education
+🏫 Education and Activity
 - Seokyeong University , computer engineering  ``2017-03~``
 - Physical Lab(Startup company) , software development team , intern  ``2021-07~2021-08``
 - Spartan Coding Club , supporters ``2021-11~2021-12``
