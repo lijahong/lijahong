@@ -9,10 +9,10 @@ If you want to contact me, please leave me a message!
 
 
 ⚡ Interest
-- Problem Solving (PS)
 - Algoritm Study
 - Spring 
-- LOL, Tarkov 🎮
+- Problem Solving (PS)
+- LOL, TARKOV 🎮
 
 
 <!--
