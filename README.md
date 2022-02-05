@@ -1,4 +1,19 @@
 ### Hi there 👋
+Good Day! I'm Jaehong
+
+If you want to contact me, please leave me a message.
+
+
+🏫 Education
+- sku Unversity, computer engineering  ``2017-03~``
+
+
+⚡ Interest
+- Problem Solving (PS)
+- Algoritm Study
+- Spring 
+- LOL, Tarkov 🎮
+
 
 <!--
 **lijahong/lijahong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
