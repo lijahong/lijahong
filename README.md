@@ -1,6 +1,6 @@
 ### Hello 👋
 
-Good Day! I'm Jaehong
+Good Day! I'm lijahong
 
 If you want to contact me, please leave me a message!
 
