@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello 👋
+
 Good Day! I'm Jaehong
 
 If you want to contact me, please leave me a message!
