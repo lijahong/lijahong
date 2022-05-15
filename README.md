@@ -9,7 +9,12 @@ If you want to contact me, please leave me a message!
 - Seokyeong University , computer engineering  ``2017-03~``
 - Physical Lab(Startup company) , software development team , intern  ``2021-07~2021-08``
 - Spartan Coding Club , supporters ``2021-11~2021-12``
-
+- 서경대 딥러닝 스터디 4기 ''2022.01.01 ~''
+- 2021년 모바일 앱 웹 공모전 참가 
+- 2021년 스마트 해상 물류 방파제 팀 참가
+- 서경대 s tutoring mentoring metor 활동
+- 2022년 스마트 해상 물류 팀 참가중
+- Stop Covid-19 SW Challenge 아이디어 해커톤 참가
 
 ⚡ Interest
 - Algoritm Study
