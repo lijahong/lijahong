@@ -6,12 +6,12 @@ If you want to contact me, please leave me a message!
 
 
 🏫 Education and Activity
-- Seokyeong University , computer engineering  ``2017-03~``
-- Physical Lab(Startup company) , software development team , intern  ``2021-07~2021-08``
-- Spartan Coding Club , supporters ``2021-11~2021-12``
-- 서경대 딥러닝 스터디 4기 ``2022-01~``
-- 서경대 s tutoring mentoring metor 활동 ``2022-03~2022-06``
-- Kakko cloud school engineer 1기  ``2022-06~2022-12``
+- Seokyeong University , Computer Engineering  ``2017-03~``
+- Physical Lab(Startup company) , Software Development Team , Intern  ``2021-07~2021-08``
+- Spartan Coding Club , Supporters ``2021-11~2021-12``
+- Sku Deep Learning Study 4기 ``2022-01~``
+- Sku s-tutoring Tutoring Tutor ``2022-03~2022-06``
+- Kakko cloud school engineer 1기  ``2022-06~``
 
 😄 Competition
 - 2021년 스마트 해상 물류 방파제 팀 참가 ``2021-03~2021-11``
@@ -23,7 +23,7 @@ If you want to contact me, please leave me a message!
 - Algoritm Study
 - Spring 
 - Problem Solving
-- LOL, TARKOV 🎮
+- Cloud Native
 
 
 
