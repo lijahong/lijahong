@@ -8,7 +8,7 @@ If you want to contact me, please leave me a message!
 🏫 Education and Activity
 - Seokyeong University , Computer Engineering  ``2017-03~``
 - Physical Lab(Startup company) , Software Development Team , Intern  ``2021-07~2021-08``
-- Spartan Coding Club , Supporters ``2021-11~2021-12``
+- Spartan Coding Club , Supporters 1기 ``2021-11~2021-12``
 - Sku Deep Learning Study 4기 ``2022-01~``
 - Sku s-tutoring Tutoring Tutor ``2022-03~2022-06``
 - Kakko cloud school engineer 1기  ``2022-06~``
