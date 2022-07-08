@@ -21,10 +21,11 @@ If you want to contact me, please leave me a message!
 
 ⚡ Interest
 - Algoritm Study
-- Spring 
+- Django
 - Problem Solving
-- Cloud Native
-
+- Cloud
+- Network
+- Devops
 
 
 
