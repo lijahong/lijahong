@@ -4,6 +4,7 @@ Good Day! I'm lijahong
 
 If you want to contact me, please leave me a message!
 
+Pls Check My [Youtube Channel](https://www.youtube.com/channel/UCWufm2e-ukGbrWoU5zn9PlA)
 
 🏫 Education and Activity
 - Seokyeong University , Computer Engineering  ``2017-03~``
