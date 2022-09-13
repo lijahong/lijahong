@@ -28,7 +28,12 @@ Pls Check My [Youtube Channel](https://www.youtube.com/channel/UCWufm2e-ukGbrWoU
 - Network
 - Devops
 
+# 📁 Visit Blog
 
+Blog : <a href="https://velog.io/@lijahong" target="_blank">Velog</a>
+
+# 📁 Stacks
+<img src = "https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" style="height : auto; margin-left : 2px; margin-right : 2px;"/> <img src = "https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white" style="height : auto; margin-left : 2px; margin-right : 2px;"/>
 
 <!--
 **lijahong/lijahong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
