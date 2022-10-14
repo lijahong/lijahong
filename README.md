@@ -32,8 +32,24 @@ Pls Check My [Youtube Channel](https://www.youtube.com/channel/UCWufm2e-ukGbrWoU
 
 Blog : <a href="https://velog.io/@lijahong" target="_blank">Velog</a>
 
-# 📁 Stacks
-<img src = "https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" style="height : auto; margin-left : 2px; margin-right : 2px;"/> <img src = "https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white" style="height : auto; margin-left : 2px; margin-right : 2px;"/>
+<h3 align="center"><b>📚 Stacks</b></h3>
+</br>
+<p align="center">
+<img src="https://img.shields.io/badge/ansible-%23EE0000.svg?&style=for-the-badge&logo=ansible&logoColor=white" /></a> &nbsp
+<img src="https://img.shields.io/badge/vagrant-%231563FF.svg?&style=for-the-badge&logo=vagrant&logoColor=white" /></a> &nbsp
+
+</br>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white"></a> &nbsp
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"></a> &nbsp
+<img src="https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=OpenStack&logoColor=white"></a> &nbsp
+</br>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"></a> &nbsp
+<img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=CentOS&logoColor=white"></a> &nbsp
+<img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=VMware&logoColor=white"></a> &nbsp
+</br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"></a> &nbsp
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"></a> &nbsp 
+</p>
 
 <!--
 **lijahong/lijahong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
