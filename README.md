@@ -28,10 +28,6 @@ Pls Check My [Youtube Channel](https://www.youtube.com/channel/UCWufm2e-ukGbrWoU
 - Network
 - Devops
 
-# 📁 Visit Blog
-
-Blog : <a href="https://velog.io/@lijahong" target="_blank">Velog</a>
-
 ---
 
 <h3 align="center"><b>📚 Stacks</b></h3>
@@ -70,3 +66,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![lijahong's github stats](https://github-readme-stats.vercel.app/api?username=lijahong&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+# 📁 Visit Blog
+
+Blog : <a href="https://velog.io/@lijahong" target="_blank">Velog</a>
