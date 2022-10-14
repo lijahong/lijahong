@@ -1,4 +1,4 @@
-# Hello 👋
+# 👋 Hello
 
 Good Day! I'm lijahong
 
@@ -32,6 +32,8 @@ Pls Check My [Youtube Channel](https://www.youtube.com/channel/UCWufm2e-ukGbrWoU
 
 Blog : <a href="https://velog.io/@lijahong" target="_blank">Velog</a>
 
+---
+
 <h3 align="center"><b>📚 Stacks</b></h3>
 </br>
 <p align="center">
@@ -50,6 +52,8 @@ Blog : <a href="https://velog.io/@lijahong" target="_blank">Velog</a>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"></a> &nbsp
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"></a> &nbsp 
 </p>
+
+---
 
 <!--
 **lijahong/lijahong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
