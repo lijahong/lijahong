@@ -10,9 +10,9 @@ Pls Check My [Youtube Channel](https://www.youtube.com/channel/UCWufm2e-ukGbrWoU
 - Seokyeong University , Computer Engineering  ``2017-03~``
 - Physical Lab(Startup company) , Software Development Team , Intern  ``2021-07~2021-08``
 - Spartan Coding Club , Supporters 1기 ``2021-11~2021-12``
-- Sku Deep Learning Study 4기 ``2022-01~``
+- Sku Deep Learning Study 4기 ``2022-01~2022-11``
 - Sku s-tutoring Tutoring Tutor ``2022-03~2022-06``
-- Kakao cloud school engineer 1기  ``2022-06~``
+- Kakao cloud school engineer 1기  ``2022-06~2022-12``
 
 # 😄 Competition
 - 2021년 스마트 해상 물류 방파제 팀 참가 ``2021-03~2021-11``
