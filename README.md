@@ -6,9 +6,9 @@ If you want to contact me, please leave me a message!
 
 Pls Check My [Youtube Channel](https://www.youtube.com/channel/UCWufm2e-ukGbrWoU5zn9PlA)
 
-# 📁 Visit Blog
+# 📁 Visit Velog
 
-Blog : <a href="https://velog.io/@lijahong" target="_blank">Velog</a>
+Velog : <a href="https://velog.io/@lijahong" target="_blank">Velog</a>
 
 # 🏫 Education and Activity
 
