@@ -59,10 +59,6 @@ Pls Check My [Youtube Channel](https://www.youtube.com/channel/UCWufm2e-ukGbrWoU
 - Stop Covid-19 SW Challenge 아이디어 해커톤 참가 ``2022-02~2022-03``
 
 ---
-<p align="center">
 [![lijahong's github stats](https://github-readme-stats.vercel.app/api?username=lijahong&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
-</p>
 
----
-
-![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lijahong)](https://solved.ac/lijahong)
+![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lijahong)]
