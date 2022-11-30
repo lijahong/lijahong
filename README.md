@@ -32,22 +32,24 @@ Pls Check My [Youtube Channel](https://www.youtube.com/channel/UCWufm2e-ukGbrWoU
 <h2 align="center"><b>📚 Stacks</b></h2>
 </br>
 <p align="center">
+<img src="https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=OpenStack&logoColor=white"></a> &nbsp
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"></a> &nbsp
+</br>
 <img src="https://img.shields.io/badge/ansible-%23EE0000.svg?&style=for-the-badge&logo=ansible&logoColor=white" /></a> &nbsp
 <img src="https://img.shields.io/badge/vagrant-%231563FF.svg?&style=for-the-badge&logo=vagrant&logoColor=white" /></a> &nbsp
 <img src="https://img.shields.io/badge/Terraform-%231563FF.svg?&style=for-the-badge&logo=Terraform&logoColor=white" /></a> &nbsp
 </br>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white"></a> &nbsp
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"></a> &nbsp
-<img src="https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=OpenStack&logoColor=white"></a> &nbsp
-<img src="https://img.shields.io/badge/Aws-ED1944?style=for-the-badge&logo=Aws&logoColor=white"></a> &nbsp
 </br>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"></a> &nbsp
 <img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=CentOS&logoColor=white"></a> &nbsp
 <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=VMware&logoColor=white"></a> &nbsp
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a> &nbsp
 </br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"></a> &nbsp
+<img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"></a> &nbsp
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"></a> &nbsp 
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a> &nbsp 
 </p>
 
 ---
