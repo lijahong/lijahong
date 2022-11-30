@@ -47,6 +47,7 @@ Pls Check My [Youtube Channel](https://www.youtube.com/channel/UCWufm2e-ukGbrWoU
 </br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"></a> &nbsp
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"></a> &nbsp 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 </p>
 
 ---
