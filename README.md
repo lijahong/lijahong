@@ -61,4 +61,4 @@ Pls Check My [Youtube Channel](https://www.youtube.com/channel/UCWufm2e-ukGbrWoU
 ---
 [![lijahong's github stats](https://github-readme-stats.vercel.app/api?username=lijahong&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
-![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lijahong)]
+![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lijahong)
