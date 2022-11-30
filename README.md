@@ -6,6 +6,8 @@ If you want to contact me, please leave me a message!
 
 Pls Check My [Youtube Channel](https://www.youtube.com/channel/UCWufm2e-ukGbrWoU5zn9PlA) and <a href="https://velog.io/@lijahong" target="_blank">Velog</a>
 
+---
+
 <h2 align="center"><b>📚 Stacks</b></h2>
 </br>
 <p align="center">
@@ -48,6 +50,8 @@ Pls Check My [Youtube Channel](https://www.youtube.com/channel/UCWufm2e-ukGbrWoU
 - Physical Lab(Startup company) , Software Development Team , Intern  ``2021-07~2021-08``
 - Spartan Coding Club , Supporters 1기 ``2021-11~2021-12``
 - Kakao cloud school engineer 1기  ``2022-06~2022-12``
+
+---
 
 # 😄 Competition
 - 2021년 스마트 해상 물류 방파제 팀 참가 ``2021-03~2021-11``
