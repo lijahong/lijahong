@@ -34,11 +34,12 @@ Pls Check My [Youtube Channel](https://www.youtube.com/channel/UCWufm2e-ukGbrWoU
 <p align="center">
 <img src="https://img.shields.io/badge/ansible-%23EE0000.svg?&style=for-the-badge&logo=ansible&logoColor=white" /></a> &nbsp
 <img src="https://img.shields.io/badge/vagrant-%231563FF.svg?&style=for-the-badge&logo=vagrant&logoColor=white" /></a> &nbsp
-<img src="https://img.shields.io/badge/Terraformt-%231563FF.svg?&style=for-the-badge&logo=Terraform&logoColor=white" /></a> &nbsp
+<img src="https://img.shields.io/badge/Terraform-%231563FF.svg?&style=for-the-badge&logo=Terraform&logoColor=white" /></a> &nbsp
 </br>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white"></a> &nbsp
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"></a> &nbsp
 <img src="https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=OpenStack&logoColor=white"></a> &nbsp
+<img src="https://img.shields.io/badge/Aws-ED1944?style=for-the-badge&logo=Aws&logoColor=white"></a> &nbsp
 </br>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"></a> &nbsp
 <img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=CentOS&logoColor=white"></a> &nbsp
