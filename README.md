@@ -6,29 +6,6 @@ If you want to contact me, please leave me a message!
 
 Pls Check My [Youtube Channel](https://www.youtube.com/channel/UCWufm2e-ukGbrWoU5zn9PlA) and <a href="https://velog.io/@lijahong" target="_blank">Velog</a>
 
-# 🏫 Education and Activity
-
-## On-Campus
-- Seokyeong University , computer engineering ``2017-03~2023-02``
-- Sku 2021년도 1학기 학습 Study < SKU의 두뇌 > - 딥러닝과 머신러닝 학습 ``2021-03~2021-06``
-- Sku 2021년도 2학기 학습 Study < AlgorExpert > - Algorithm ``2021-09~2021-12``
-- Sku 2021년도 2학기 취업 Study < 기회 JAVA > 우수상 - ``2021-09~2022-01``
-- Sku Deep Learning Study ``2022-01~2022-11``
-- Sku 2022년도 1학기 취업 Study < Spring > 장려상 - ``2022-03~2022-07``
-- Sku 2022년도 1학기 s-tutoring Tutoring Tutor ``2022-03~2022-06``
-
-## Off-Campus
-- Physical Lab(Startup company) , Software Development Team , Intern  ``2021-07~2021-08``
-- Spartan Coding Club , Supporters 1기 ``2021-11~2021-12``
-- Kakao cloud school engineer 1기  ``2022-06~2022-12``
-
-# 😄 Competition
-- 2021년 스마트 해상 물류 방파제 팀 참가 ``2021-03~2021-11``
-- 2021년 모바일 앱 웹 공모전 참가 ``2021-10~2021-11``
-- Stop Covid-19 SW Challenge 아이디어 해커톤 참가 ``2022-02~2022-03``
-
----
-
 <h2 align="center"><b>📚 Stacks</b></h2>
 </br>
 <p align="center">
@@ -53,6 +30,29 @@ Pls Check My [Youtube Channel](https://www.youtube.com/channel/UCWufm2e-ukGbrWoU
 </br>
 <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"></a> &nbsp 
 </p>
+
+---
+
+# 🏫 Education and Activity
+
+## On-Campus
+- Seokyeong University , computer engineering ``2017-03~2023-02``
+- Sku 2021년도 1학기 학습 Study < SKU의 두뇌 > - 딥러닝과 머신러닝 학습 ``2021-03~2021-06``
+- Sku 2021년도 2학기 학습 Study < AlgorExpert > - Algorithm ``2021-09~2021-12``
+- Sku 2021년도 2학기 취업 Study < 기회 JAVA > 우수상 - ``2021-09~2022-01``
+- Sku Deep Learning Study ``2022-01~2022-11``
+- Sku 2022년도 1학기 취업 Study < Spring > 장려상 - ``2022-03~2022-07``
+- Sku 2022년도 1학기 s-tutoring Tutoring Tutor ``2022-03~2022-06``
+
+## Off-Campus
+- Physical Lab(Startup company) , Software Development Team , Intern  ``2021-07~2021-08``
+- Spartan Coding Club , Supporters 1기 ``2021-11~2021-12``
+- Kakao cloud school engineer 1기  ``2022-06~2022-12``
+
+# 😄 Competition
+- 2021년 스마트 해상 물류 방파제 팀 참가 ``2021-03~2021-11``
+- 2021년 모바일 앱 웹 공모전 참가 ``2021-10~2021-11``
+- Stop Covid-19 SW Challenge 아이디어 해커톤 참가 ``2022-02~2022-03``
 
 ---
 
