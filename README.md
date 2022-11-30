@@ -41,9 +41,9 @@ Pls Check My [Youtube Channel](https://www.youtube.com/channel/UCWufm2e-ukGbrWoU
 - Seokyeong University , computer engineering ``2017-03~2023-02``
 - Sku 2021년도 1학기 학습 Study < SKU의 두뇌 > - 딥러닝과 머신러닝 학습 ``2021-03~2021-06``
 - Sku 2021년도 2학기 학습 Study < AlgorExpert > - Algorithm ``2021-09~2021-12``
-- Sku 2021년도 2학기 취업 Study < 기회 JAVA > 우수상 - ``2021-09~2022-01``
+- Sku 2021년도 2학기 취업 Study < 기회 JAVA > - ``2021-09~2022-01``
 - Sku Deep Learning Study ``2022-01~2022-11``
-- Sku 2022년도 1학기 취업 Study < Spring > 장려상 - ``2022-03~2022-07``
+- Sku 2022년도 1학기 취업 Study < Spring > - ``2022-03~2022-07``
 - Sku 2022년도 1학기 s-tutoring Tutoring Tutor ``2022-03~2022-06``
 
 ## Off-Campus
