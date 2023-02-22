@@ -53,11 +53,4 @@ Pls Check My [Youtube Channel](https://www.youtube.com/channel/UCWufm2e-ukGbrWoU
 - Kakao cloud school engineer 1기  ``2022-06~2022-12``
 
 ---
-
-# 😄 Competition
-- 2021년 스마트 해상 물류 방파제 팀 참가 ``2021-03~2021-11``
-- 2021년 모바일 앱 웹 공모전 참가 ``2021-10~2021-11``
-- Stop Covid-19 SW Challenge 아이디어 해커톤 참가 ``2022-02~2022-03``
-
----
 [![lijahong's github stats](https://github-readme-stats.vercel.app/api?username=lijahong&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
