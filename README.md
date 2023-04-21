@@ -27,6 +27,7 @@ Pls Check My [Youtube Channel](https://www.youtube.com/channel/UCWufm2e-ukGbrWoU
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"></a> &nbsp
 <img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=CentOS&logoColor=white"></a> &nbsp
 <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=VMware&logoColor=white"></a> &nbsp
+<img src="https://img.shields.io/badge/KVM-607078?style=for-the-badge&logo=KVM&logoColor=white"></a> &nbsp
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a> &nbsp
 </br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"></a> &nbsp
