@@ -13,6 +13,7 @@ Pls Check My [Youtube Channel](https://www.youtube.com/channel/UCWufm2e-ukGbrWoU
 <p align="center">
 <img src="https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=OpenStack&logoColor=white"></a> &nbsp
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"></a> &nbsp
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-eks&logoColor=white"></a> &nbsp
 </br>
 <img src="https://img.shields.io/badge/ansible-%23EE0000.svg?&style=for-the-badge&logo=ansible&logoColor=white" /></a> &nbsp
 <img src="https://img.shields.io/badge/vagrant-%231563FF.svg?&style=for-the-badge&logo=vagrant&logoColor=white" /></a> &nbsp
