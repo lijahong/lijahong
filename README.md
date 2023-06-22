@@ -34,6 +34,11 @@ Pls Check My [Youtube Channel](https://www.youtube.com/channel/UCWufm2e-ukGbrWoU
 <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"></a> &nbsp 
 </p>
 
+<h2 align="center"><b>📚 Certificate</b></h2>
+</br>
+<p align="center">
+<img src="https://github.com/lijahong/lijahong/assets/69387517/fdbc5eba-9150-4679-9ee0-7a2f3e6dadcd"></a> &nbsp
+
 ---
 
 # 🏫 Education and Activity
@@ -53,9 +58,5 @@ Pls Check My [Youtube Channel](https://www.youtube.com/channel/UCWufm2e-ukGbrWoU
 - Kakao cloud school engineer 1기  ``2022-06~2022-12``
 
 ---
-
-# Certificate
-
-![image](https://github.com/lijahong/lijahong/assets/69387517/01c68050-e4ff-4f0e-a8bc-b4d72a18d1e2)
 
 [![lijahong's github stats](https://github-readme-stats.vercel.app/api?username=lijahong&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
