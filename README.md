@@ -6,8 +6,6 @@ If you want to contact me, please leave me a message!
 
 Pls Check My [Youtube Channel](https://www.youtube.com/channel/UCWufm2e-ukGbrWoU5zn9PlA) and <a href="https://velog.io/@lijahong" target="_blank">Velog</a>
 
----
-
 <h2 align="center"><b>📚 Stacks</b></h2>
 </br>
 <p align="center">
