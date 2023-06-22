@@ -34,12 +34,11 @@ Pls Check My [Youtube Channel](https://www.youtube.com/channel/UCWufm2e-ukGbrWoU
 <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"></a> &nbsp 
 </p>
 
-<h2 align="center"><b>📚 Certificate</b></h2>
+#📚 Certificate
 </br>
-<p align="center">
+<p>
 <img src="https://github.com/lijahong/lijahong/assets/69387517/fdbc5eba-9150-4679-9ee0-7a2f3e6dadcd"></a> &nbsp
-
----
+</p>
 
 # 🏫 Education and Activity
 
