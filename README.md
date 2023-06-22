@@ -6,9 +6,9 @@ If you want to contact me, please leave me a message!
 
 Pls Check My [Youtube Channel](https://www.youtube.com/channel/UCWufm2e-ukGbrWoU5zn9PlA) and <a href="https://velog.io/@lijahong" target="_blank">Velog</a>
 
-<h2 align="center"><b>📚 Stacks</b></h2>
+# 📚 Stacks
 </br>
-<p align="center">
+<p>
 <img src="https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=OpenStack&logoColor=white"></a> &nbsp
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"></a> &nbsp
 <img src="https://img.shields.io/badge/EKS-%23FF9900.svg?style=for-the-badge&logo=amazon-eks&logoColor=white"></a> &nbsp
