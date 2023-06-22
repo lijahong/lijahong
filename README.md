@@ -53,4 +53,9 @@ Pls Check My [Youtube Channel](https://www.youtube.com/channel/UCWufm2e-ukGbrWoU
 - Kakao cloud school engineer 1기  ``2022-06~2022-12``
 
 ---
+
+# Certificate
+
+![image](https://github.com/lijahong/lijahong/assets/69387517/01c68050-e4ff-4f0e-a8bc-b4d72a18d1e2)
+
 [![lijahong's github stats](https://github-readme-stats.vercel.app/api?username=lijahong&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
