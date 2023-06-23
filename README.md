@@ -10,7 +10,6 @@ Pls Check My [Youtube Channel](https://www.youtube.com/channel/UCWufm2e-ukGbrWoU
 </br>
 <p>
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"></a> &nbsp
-<img src="https://img.shields.io/badge/Tekton-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white"></a> &nbsp
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"></a> &nbsp
 <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=VMware&logoColor=white"></a> &nbsp
 <img src="https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=OpenStack&logoColor=white"></a> &nbsp
@@ -18,6 +17,7 @@ Pls Check My [Youtube Channel](https://www.youtube.com/channel/UCWufm2e-ukGbrWoU
 <img src="https://img.shields.io/badge/ansible-%23EE0000.svg?&style=for-the-badge&logo=ansible&logoColor=white" /></a> &nbsp
 <img src="https://img.shields.io/badge/vagrant-%231563FF.svg?&style=for-the-badge&logo=vagrant&logoColor=white" /></a> &nbsp
 <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" /></a> &nbsp
+<img src="https://img.shields.io/badge/Tekton-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white"></a> &nbsp
 <img src="https://img.shields.io/badge/gitlab-%232C5263.svg?style=for-the-badge&logo=gitlab&logoColor=red" /></a> &nbsp
 </br>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white"></a> &nbsp
