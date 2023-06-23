@@ -18,6 +18,7 @@ Pls Check My [Youtube Channel](https://www.youtube.com/channel/UCWufm2e-ukGbrWoU
 <img src="https://img.shields.io/badge/vagrant-%231563FF.svg?&style=for-the-badge&logo=vagrant&logoColor=white" /></a> &nbsp
 <img src="https://img.shields.io/badge/Terraform-%231563FF.svg?&style=for-the-badge&logo=Terraform&logoColor=white" /></a> &nbsp
 <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" /></a> &nbsp
+<img src="https://img.shields.io/badge/gitlab-%232C5263.svg?style=for-the-badge&logo=gitlab&logoColor=white" /></a> &nbsp
 </br>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white"></a> &nbsp
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"></a> &nbsp
