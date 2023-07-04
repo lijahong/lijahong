@@ -48,7 +48,3 @@ Pls Check My [Youtube Channel](https://www.youtube.com/channel/UCWufm2e-ukGbrWoU
 - Physical Lab(Startup company) , Software Development Team , Intern  ``2021-07~2021-08``
 - Spartan Coding Club , Supporters 1기 ``2021-11~2021-12``
 - Kakao cloud school engineer 1기  ``2022-06~2022-12``
-
----
-
-[![lijahong's github stats](https://github-readme-stats.vercel.app/api?username=lijahong&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
