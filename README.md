@@ -31,6 +31,7 @@ Pls Check My [Youtube Channel](https://www.youtube.com/channel/UCWufm2e-ukGbrWoU
 </br>
 <p>
 <img src="https://github.com/lijahong/lijahong/assets/69387517/fdbc5eba-9150-4679-9ee0-7a2f3e6dadcd"></a> &nbsp
+<img src="https://github.com/lijahong/lijahong/assets/69387517/fdbc5eba-9150-4679-9ee0-7a2f3e6dadcd"></a> &nbsp
 </p>
 
 # 🏫 Education and Activity
