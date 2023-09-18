@@ -39,10 +39,8 @@ Pls Check My [Youtube Channel](https://www.youtube.com/channel/UCWufm2e-ukGbrWoU
 # 🏫 Education and Activity
 
 ## On-Campus
-- 2021년도 1학기 학습 동아리 < SKU의 두뇌 > - 딥러닝과 머신러닝 학습 ``2021-03~2021-06``
 - 2021년도 2학기 학습 동아리 < AlgorExpert > - Algorithm ``2021-09~2021-12``
 - 2021년도 2학기 취업 동아리 < 기회 JAVA > - ``2021-10~2022-01``
-- Deep Learning Study ``2022-01~2022-11``
 - 2022년도 1학기 취업 동아리 < Spring > - ``2022-04~2022-09``
 - 2022년도 1학기 s-tutoring Tutoring Tutor ``2022-03~2022-06``
 
